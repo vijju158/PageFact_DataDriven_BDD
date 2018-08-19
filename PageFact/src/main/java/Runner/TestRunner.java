@@ -14,5 +14,5 @@ import org.testng.annotations.*;
 		features = {"src/main/java/Features"})
 
 public class TestRunner extends AbstractTestNGCucumberTests {
-//Test Code
+
 }
